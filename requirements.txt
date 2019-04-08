@@ -1,6 +1,5 @@
 absl-py==0.5.0
 astor==0.7.1
-beautifulsoup4==4.6.3
 certifi==2019.3.9
 Click==7.0
 ez-setup==0.9
@@ -15,13 +14,9 @@ Jinja2==2.10.1
 Keras==2.2.4
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
-lxml==4.2.5
-Markdown==3.0.1
-MarkupSafe==1.1.1
-nltk==3.3
+PIL==1.1.7
+Pillow==3.4.2
 pip-autoremove==0.9.1
-protobuf==3.6.1
-pydotplus==2.0.2
 pysqlite3==0.2.0
 PyYAML==3.13
 tensorboard==1.11.0
